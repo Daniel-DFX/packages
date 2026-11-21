@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.10.0-beta.0](https://github.com/DFXswiss/packages/compare/@dfx.swiss/core@0.7.2...@dfx.swiss/core@0.10.0-beta.0) (2026-11-21)
+
+### Features
+
+- **core,react:** add the merchant info call ([#256](https://github.com/DFXswiss/packages/issues/256)) ([f922082](https://github.com/DFXswiss/packages/commit/f9220826c8a2eb13b2752beb09c712e6b3be800a))
+- **core,react:** add the sell address check call ([#262](https://github.com/DFXswiss/packages/issues/262)) ([14e31f8](https://github.com/DFXswiss/packages/commit/14e31f8c214af6f489d143b64c684b45aa9ed3a6))
+
 ## [0.9.1-beta.0](https://github.com/DFXswiss/packages/compare/@dfx.swiss/core@0.9.0...@dfx.swiss/core@0.9.1-beta.0) (2026-11-17)
 
 **Note:** Version bump only for package @dfx.swiss/core
